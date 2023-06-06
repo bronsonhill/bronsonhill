@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bronsonhill
 - 👀 I’m interested in everything, but particularly algorthmic trading and the application of new technologies.
-- 🌱 I’m currently majoring in data science.
+- 🌱 I’m currently majoring in computing and software systems.
 - 💞️ I’m looking to collaborate on beginner algorithmic trading concepts.
 - 📫 Email: bronson.hill@yahoo.com.au (Melbourne, Australia)
 
