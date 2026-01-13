@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bronsonhill
 - 👀 I’m interested in emerging technology.
 - 🌱 I’m currently an entry-level software developer.
-- 💞️ I’m looking to learn and grow into a tranforming industry
+- 💞️ I’m looking to learn and grow into a transforming industry.
 - 📫 Email: bronson.hill@yahoo.com.au (Melbourne, Australia)
 
 <!---
