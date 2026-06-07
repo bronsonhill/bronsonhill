@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @bronsonhill
-- 👀 I’m interested in emerging technology.
-- 🌱 I’m currently an entry-level software developer.
-- 💞️ I’m looking to learn and grow into a transforming industry.
-- 📫 Email: bronson.hill@yahoo.com.au (Melbourne, Australia)
-
+Full-Stack Software Developer based in Melbourne with experience working on a range of projects. I have a particular interest in engaging in the changing industry where software is on a trajectory to become a commodity.
 <!---
 bronsonhill/bronsonhill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
